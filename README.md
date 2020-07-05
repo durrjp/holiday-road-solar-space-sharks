@@ -12,11 +12,13 @@ This application was designed by me (Jon) and 3 other apprectice programmers at 
 touch Settings.js
 ```
 3. Open up Visual Studio Code using `code .` and paste this code into that file:
-```export const keys = {
+``` bash
+export const keys = {
 	graphhopperKey: "99bfd6c1-cba2-4ace-a1f6-cf325780242d",
 	npsKey: "pi8adwTsUtwISb1FxKz1LC2BFesIOtPtORUehzk5",
 	weatherKey: "48dd27ebf296f56c4be04fdd50e77663"
-}```
+}
+```
 4. If you do not have json server installed you will need to install it using the command: 
 ``` bash
 npm install -g json-server
