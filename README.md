@@ -11,7 +11,7 @@ This application was designed by me (Jon) and 3 other apprectice programmers at 
 ``` bash
 touch Settings.js
 ```
-3. Open up Visual Studio Code using `code .` and paste this code into that file:
+3. Open up Visual Studio Code using `code .` and paste this code into the Settings.js file:
 ``` bash
 export const keys = {
 	graphhopperKey: "99bfd6c1-cba2-4ace-a1f6-cf325780242d",
@@ -36,7 +36,7 @@ serve
 
 * National Park Service (national park api): https://www.nps.gov/subjects/digital/nps-data-api.htm
 * Open Weather Map (weather api): https://openweathermap.org/api
-* Graphhopper (direction api)
+* Graphhopper (direction api): https://www.graphhopper.com/
 * Activities Data (dummy data): http://holidayroad.nss.team/bizarreries
 * Restaurant Data (dummy data): http://holidayroad.nss.team/eateries
 
