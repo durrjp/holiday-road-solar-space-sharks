@@ -32,6 +32,12 @@ json-server -p 3000 -w database.json
 serve
 ```
 
+## Technologies 
+* HTML
+* CSS
+* Javascript
+* JSON Server
+
 ## External API's + Data
 
 * National Park Service (national park api): https://www.nps.gov/subjects/digital/nps-data-api.htm
